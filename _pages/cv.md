@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Jan 2023-now: Applied Scientist
-  * Amazon.com Services, Inc
+  * Amazon.com Services LLC
 
 * Aug 2021-Dec 2023: Graduate Research Associate
   * Arizona State University
