@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "What I cannot create, I do not understand."
+title                    : "\"What I cannot create, I do not understand.\" \n― Richard P. Feynman"
 title_separator          : "-"
 name                     : &name "Zhikang Zhang"
 description              : &description "Researcher on multimodal learning, computer vision, signal processing"
