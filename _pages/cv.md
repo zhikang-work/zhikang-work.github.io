@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Can download from [here](https://zhikang.work/files/zhikang-cv.pdf) with more details.
+Can download the detailed version from [here](https://zhikang.work/files/zhikang-cv.pdf).
 
 Education
 ======
@@ -25,7 +25,7 @@ Work experience
   * Arizona State University
 
 * May 2021-Aug 2023: Applied Scientist Intern
-  * Amazon.com Services, Inc
+  * Amazon.com Services LLC
 
 * Aug 2017-May 2021: Graduate Research Associate
   * Arizona State University
