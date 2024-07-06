@@ -22,7 +22,7 @@ repository               : "zhikang-work/zhikang-work.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhikang Zhang"
+  name             : "Zhikang Zhang(张智康)"
   pronouns         : # example: "she/her"  
   bio              : "Researcher on multimodal learning, computer vision, signal processing"
   location         : "Seattle"
