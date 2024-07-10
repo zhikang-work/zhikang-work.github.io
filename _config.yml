@@ -12,7 +12,7 @@ title                    : "\"What I cannot create, I do not understand.\" \n―
 title_separator          : "-"
 name                     : &name "Zhikang Zhang"
 description              : &description "Researcher on multimodal learning, computer vision, signal processing"
-url                      : https://www.zhikang.work # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhikang.work # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhikang-work/zhikang-work.github.io"
 
