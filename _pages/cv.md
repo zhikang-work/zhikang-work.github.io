@@ -17,23 +17,11 @@ Education
 Work experience
 ======
 
-* Apr 2026 - Present: Senior Applied Scientist
-  * Amazon AGI
-
-* Apr 2024 - Apr 2026: Applied Scientist
-  * Amazon AGI
-
-* Jan 2023 - Apr 2024: Applied Scientist
-  * Prime Video
-
-* Aug 2021 - Dec 2022: Graduate Research Associate
-  * Arizona State University
-
-* May 2021 - Aug 2021: Applied Scientist Intern
-  * Prime Video
-
-* Aug 2017 - May 2021: Graduate Research Associate
-  * Arizona State University
+* Apr 2026 - Present: Senior Applied Scientist, [Amazon AGI](/projects/)
+* Apr 2024 - Apr 2026: Applied Scientist, [Amazon AGI](/projects/)
+* Jan 2023 - Apr 2024: Applied Scientist, Amazon Prime Video
+* May 2021 - Aug 2021: Applied Scientist Intern, Amazon Prime Video
+* Aug 2017 - Dec 2022: Graduate Research Associate, Arizona State University
 
 Publications
 ======
