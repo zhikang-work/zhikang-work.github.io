@@ -17,7 +17,10 @@ Education
 Work experience
 ======
 
-* Apr 2024 - Present: Applied Scientist
+* Apr 2026 - Present: Senior Applied Scientist
+  * Amazon AGI
+
+* Apr 2024 - Apr 2026: Applied Scientist
   * Amazon AGI
 
 * Jan 2023 - Apr 2024: Applied Scientist
@@ -34,6 +37,14 @@ Work experience
 
 Publications
 ======
+* [The Amazon Nova Family of Models: Technical Report and Model Card](https://arxiv.org/pdf/2506.12103)<br/>
+  Amazon AGI Team (780+ authors including **Zhikang Zhang**)<br/>
+  *arXiv preprint, 2025*
+
+* [Learning Compact Video Representations for Efficient Long-form Video Understanding in Large Multimodal Models](https://openaccess.thecvf.com/content/WACV2026/papers/Chen_Learning_Compact_Video_Representations_for_Efficient_Long-form_Video_Understanding_in_WACV_2026_paper.pdf)<br/>
+  Yuxiao Chen, Jue Wang, **Zhikang Zhang**, Jingru Yi, Xu Zhang, Yang Zou, Zhaowei Cai, Jianbo Yuan, Xinyu Li, Hao Yang, Davide Modolo<br/>
+  *Winter Conference on Applications of Computer Vision (WACV) 2026*
+
 * [Now You See Me: Context-Aware Automatic Audio Description](https://arxiv.org/pdf/2412.10002)<br/>
   Seon-Ho Lee, Jue Wang, David Fan, **Zhikang Zhang**, Linda Liu, Xiang Hao, Vimal Bhat, Xinyu Li<br/>
   *Winter Conference on Applications of Computer Vision (WACV) 2025*
@@ -102,3 +113,6 @@ Patents
 
 * [Method for detecting potential errors in digitally segmented images, and a system employing the same](https://patents.google.com/patent/WO2024086927A1)<br/>
   Christopher Pawlowicz, Michael Green, Bruno Machado Trindade, Fengbo Ren, **Zhikang Zhang**, Zifan Yu<br/>
+
+* [Content aware graphical subtitles](https://patents.google.com/patent/US12526485B1)<br/>
+  Hooman Mahyar, James C. Willeford, Arjun Cholkar, Xinyu Li, **Zhikang Zhang**<br/>
