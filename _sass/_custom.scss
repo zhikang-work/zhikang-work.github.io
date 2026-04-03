@@ -1,0 +1,87 @@
+/* ==========================================================================
+   CUSTOM SITE STYLES
+   ========================================================================== */
+
+/* Text selection */
+::selection {
+  background: rgba($primary-color, 0.12);
+}
+
+/* Masthead title — italic serif for the Feynman quote */
+.greedy-nav .visible-links li:first-child a {
+  font-family: $header-font-family;
+  font-style: italic;
+  font-weight: normal;
+  letter-spacing: 0.01em;
+  font-size: 0.85em;
+  opacity: 0.9;
+}
+
+/* Navicon (hamburger) on dark masthead */
+.navicon {
+  background: rgba(255, 255, 255, 0.85) !important;
+  &::before,
+  &::after {
+    background: rgba(255, 255, 255, 0.85) !important;
+  }
+}
+
+/* CV section headings (from ====== in markdown) */
+.archive > h1:not(.page__title) {
+  font-size: $type-size-3;
+  color: $primary-color;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid $accent-color;
+  margin-top: 2.5em;
+  margin-bottom: 0.75em;
+}
+
+/* CV list entries (publications, experience, education) */
+.archive > ul {
+  list-style: none;
+  padding-left: 0;
+
+  > li {
+    position: relative;
+    padding: 0.8em 0 0.8em 1.25em;
+    border-left: 3px solid transparent;
+    transition: border-color 0.25s ease, background-color 0.25s ease;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid $border-color;
+    }
+
+    &:hover {
+      border-left-color: $accent-color;
+      background-color: rgba($accent-color, 0.03);
+    }
+
+    a {
+      font-weight: 600;
+      color: $primary-color;
+      text-decoration: none;
+
+      &:hover {
+        color: $link-color;
+        text-decoration: underline;
+      }
+    }
+
+    em {
+      color: $dark-gray;
+    }
+  }
+}
+
+/* Project section headings */
+.archive > h2 {
+  color: $primary-color;
+  margin-top: 2.5em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid $border-color;
+
+  &:first-of-type {
+    margin-top: 0.5em;
+  }
+}
+

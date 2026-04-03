@@ -52,7 +52,7 @@
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 2px solid $accent-color;
   }
 
   p, li, dl {
@@ -74,9 +74,13 @@
 
   a {
     text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-color: rgba($link-color, 0.4);
 
     &:hover {
       text-decoration: underline;
+      text-decoration-color: $link-color;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
