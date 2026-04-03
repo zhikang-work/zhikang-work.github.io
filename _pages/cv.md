@@ -21,12 +21,19 @@ Work experience
 * Apr 2024 - Apr 2026: Applied Scientist, [Amazon AGI](/projects/)
 * Jan 2023 - Apr 2024: Applied Scientist, Amazon Prime Video
 * May 2021 - Aug 2021: Applied Scientist Intern, Amazon Prime Video
-* Aug 2017 - Dec 2022: Graduate Research Associate, Arizona State University
 
 Publications
 ======
+* [Amazon Nova Multimodal Embeddings: Technical Report and Model Card](https://www.amazon.science/publications/amazon-nova-multimodal-embeddings-technical-report-and-model-card)<br/>
+  Amazon AGI Team<br/>
+  *Amazon Technical Reports, 2025*
+
+* [Amazon Nova 2: Multimodal Reasoning and Generation Models](https://www.amazon.science/publications/amazon-nova-2-multimodal-reasoning-and-generation-models)<br/>
+  Amazon AGI Team<br/>
+  *Amazon Technical Reports, 2025*
+
 * [The Amazon Nova Family of Models: Technical Report and Model Card](https://arxiv.org/pdf/2506.12103)<br/>
-  Amazon AGI Team (780+ authors including **Zhikang Zhang**)<br/>
+  Amazon AGI Team<br/>
   *arXiv preprint, 2025*
 
 * [Learning Compact Video Representations for Efficient Long-form Video Understanding in Large Multimodal Models](https://openaccess.thecvf.com/content/WACV2026/papers/Chen_Learning_Compact_Video_Representations_for_Efficient_Long-form_Video_Understanding_in_WACV_2026_paper.pdf)<br/>

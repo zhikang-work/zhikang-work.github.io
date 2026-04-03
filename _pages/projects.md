@@ -8,12 +8,12 @@ author_profile: true
 {% include base_path %}
 
 ## Amazon Nova Multimodal Embeddings
-*Vision Modality Owner* | Amazon AGI | 2025
+*Vision Modality Lead* | Amazon AGI | 2025
 
 [Amazon Nova Multimodal Embeddings](https://www.amazon.science/publications/amazon-nova-multimodal-embeddings-technical-report-and-model-card) is Amazon's first unified embedding model supporting text, documents, images, video, and audio through a single model, enabling customers to unlock insights from unstructured data. Led the design and implementation of the vision modality training pipeline across all stages, achieving state-of-the-art performance on image, video, and document retrieval tasks.
 
 ## Amazon Nova 2.0
-*Video Pretraining Data Owner* | Amazon AGI | 2025
+*Video Pretraining Data Lead* | Amazon AGI | 2025
 
 [Amazon Nova 2.0](https://www.amazon.science/publications/amazon-nova-2-multimodal-reasoning-and-generation-models) Lite and Omni are Amazon's improved flagship multimodal large language models with enhanced performance on reasoning and multimodal processing. Led the development of a video synthetic caption generation pipeline, producing diverse video pretraining data that contributed to significant video understanding improvements over Nova 1.0.
 
