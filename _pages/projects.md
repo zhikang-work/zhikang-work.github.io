@@ -7,20 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-## Amazon Nova Multimodal Embeddings
-*Vision Modality Lead* | Amazon AGI | 2025
-
-[Amazon Nova Multimodal Embeddings](https://www.amazon.science/publications/amazon-nova-multimodal-embeddings-technical-report-and-model-card) is Amazon's first unified embedding model supporting text, documents, images, video, and audio through a single model, enabling customers to unlock insights from unstructured data. Led the design and implementation of the vision modality training pipeline across all stages, achieving state-of-the-art performance on image, video, and document retrieval tasks.
-
-## Amazon Nova 2.0
-*Video Pretraining Data Lead* | Amazon AGI | 2025
-
-[Amazon Nova 2.0](https://www.amazon.science/publications/amazon-nova-2-multimodal-reasoning-and-generation-models) Lite and Omni are Amazon's improved flagship multimodal large language models with enhanced performance on reasoning and multimodal processing. Led the development of a video synthetic caption generation pipeline, producing diverse video pretraining data that contributed to significant video understanding improvements over Nova 1.0.
-
-## Amazon Nova
-*Contributor* | Amazon AGI | 2024–2025
-
-[Amazon Nova](https://arxiv.org/abs/2506.12103) is Amazon's family of foundation models. Contributed to the development of the Nova model family as part of the AGI Foundations team. Co-author of [The Amazon Nova Family of Models: Technical Report and Model Card](https://arxiv.org/abs/2506.12103).
+{% for project in site.data.projects %}
+<div class="project-entry">
+  <h3 class="project-title">{{ project.title }}</h3>
+  <p class="project-meta">{{ project.meta }}</p>
+  {% if project.image %}
+  <div class="project-figure">
+    <img src="/{{ project.image }}" alt="{{ project.title }}">
+  </div>
+  {% endif %}
+  <p class="project-summary">{{ project.summary }}</p>
+  {% if project.url %}
+  <p class="project-links">
+    <a href="{{ project.url }}" target="_blank">Project Details</a>
+  </p>
+  {% endif %}
+</div>
+{% endfor %}
 
 ## Academic Service
 

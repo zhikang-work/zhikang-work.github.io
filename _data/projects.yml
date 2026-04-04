@@ -1,0 +1,17 @@
+- title: "Amazon Nova Multimodal Embeddings"
+  meta: "Vision Modality Lead | Amazon AGI | 2025"
+  image: "images/projects/nova mme.png"
+  summary: "Amazon Nova Multimodal Embeddings is Amazon's first unified embedding model supporting text, documents, images, video, and audio through a single model, enabling customers to unlock insights from unstructured data. Led the design and implementation of the vision modality training pipeline across all stages, achieving state-of-the-art performance on image, video, and document retrieval tasks."
+  url: "https://www.amazon.science/publications/amazon-nova-multimodal-embeddings-technical-report-and-model-card"
+
+- title: "Amazon Nova 2.0"
+  meta: "Video Pretraining Data Lead | Amazon AGI | 2025"
+  image: "images/projects/nova 2.png"
+  summary: "Amazon Nova 2.0 Lite and Omni are Amazon's improved flagship multimodal large language models with enhanced performance on reasoning and multimodal processing. Led the development of a video synthetic caption generation pipeline, producing diverse video pretraining data that contributed to significant video understanding improvements over Nova 1.0."
+  url: "https://www.amazon.science/publications/amazon-nova-2-multimodal-reasoning-and-generation-models"
+
+- title: "Amazon Nova"
+  meta: "Contributor | Amazon AGI | 2024–2025"
+  image: "images/projects/nova.png"
+  summary: "Amazon Nova is Amazon's family of foundation models. Contributed to the development of the Nova model family as part of the AGI Foundations team."
+  url: "https://arxiv.org/abs/2506.12103"

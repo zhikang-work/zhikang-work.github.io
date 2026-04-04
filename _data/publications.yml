@@ -1,0 +1,79 @@
+- title: "Learning Compact Video Representations for Efficient Long-form Video Understanding in Large Multimodal Models"
+  year: 2026
+  venue: WACV
+  pdf_file: papers/Chen_Learning_Compact_Video_Representations_for_Efficient_Long-form_Video_Understanding_in_WACV_2026_paper.pdf
+  figure: images/publications/manual/Chen_Learning_Compact_Video_Representations_for_Efficient_Long-form_Video_Understanding_in_WACV_2026_paper.png
+  summary: 'With recent advancements in video backbone architectures, combined with the remarkable achievements of large language models (LLMs), the analysis of long-form videos spanning tens of minutes has become both feasible and increasingly prevalent. However, the inherently redundant nature of video sequences poses significant challenges for contemporary state-of-the-art models. These challenges stem from two primary aspects: 1) efficiently incorporating a larger number of frames within memory constraints, and 2) extracting discriminative information from the vast volume of input data. In this paper, we introduce a novel end-to-end schema for long-form video understanding, which includes an information-density-based adaptive video sampling strategy and a hierarchical contrastive learning framework.'
+  url: https://openaccess.thecvf.com/content/WACV2026/papers/Chen_Learning_Compact_Video_Representations_for_Efficient_Long-form_Video_Understanding_in_WACV_2026_paper.pdf
+
+- title: "Now You See Me: Context-Aware Automatic Audio Description"
+  year: 2025
+  venue: WACV
+  pdf_file: papers/2412.10002v1.pdf
+  figure: images/publications/manual/2412.10002v1.png
+  summary: 'Automatic audio description for videos helps visually impaired users access visual content. We propose Now You See Me (NYSM), a context-aware system that generates natural language descriptions of video content. Our approach uses both visual features and audio context to produce more accurate and timely descriptions. We introduce a novel attention mechanism that focuses on relevant objects and actions in each scene, improving description quality. Experiments on standard video description datasets show significant improvements over existing methods.'
+  url: https://arxiv.org/pdf/2412.10002
+
+- title: "GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning"
+  year: 2025
+  venue: WACV
+  pdf_file: papers/2412.07704v1.pdf
+  figure: images/publications/manual/2412.07704v1.png
+  summary: 'Multi-grained video-language learning requires understanding content at different levels of granularity from fine details to high-level concepts. We present GEXIA, which addresses this through a novel granularity expansion mechanism and iterative approximation strategy. Our framework learns to align visual features with textual descriptions at multiple granularities simultaneously, enabling richer and more accurate video-text understanding. We achieve state-of-the-art results on videoQA and captioning tasks.'
+  url: https://arxiv.org/pdf/2412.07704
+
+- title: "Video Token Merging for Long Video Understanding"
+  year: 2024
+  venue: NeurIPS
+  pdf_file: papers/NeurIPS-2024-video-token-merging-for-long-video-understanding-Paper-Conference.pdf
+  figure: images/publications/manual/NeurIPS-2024-video-token-merging-for-long-video-understanding-Paper-Conference.png
+  summary: 'Processing long videos presents significant computational challenges due to their length and complexity. We propose Video Token Merging (VTM), a novel approach that efficiently processes long videos by merging redundant tokens while preserving important information. Our method learns to identify and merge semantically similar tokens across both temporal and spatial dimensions, resulting in substantial computational savings without sacrificing performance. Extensive experiments on long video understanding benchmarks demonstrate that our approach achieves state-of-the-art results while reducing computational cost by up to 40%.'
+  url: https://proceedings.neurips.cc/paper_files/paper/2024/file/194fa4536bf36f35a4505d20cd5dd6fc-Paper-Conference.pdf
+
+- title: "Text-Guided Video Masked Autoencoder"
+  year: 2024
+  venue: ECCV
+  pdf_file: papers/2408.00759v1.pdf
+  figure: images/publications/manual/2408.00759v1.png
+  summary: 'Video masked autoencoders (MAEs) have shown promise for self-supervised video representation learning. We introduce Text-Guided VAME, which leverages textual descriptions to guide the masking process. By incorporating natural language descriptions of video content, our method can focus masking on semantically important regions rather than relying solely on visual saliency. This results in better representations for downstream tasks while requiring less training data. We demonstrate effectiveness on action recognition and video retrieval benchmarks.'
+  url: https://arxiv.org/pdf/2408.00759
+
+- title: "AUTOMATIC ERROR DETECTION IN INTEGRATED CIRCUITS IMAGE SEGMENTATION: A DATA-DRIVEN APPROACH"
+  year: 2023
+  venue: ICASSP
+  pdf_file: papers/2211.03932v1.pdf
+  figure: images/publications/manual/2211.03932v1.png
+  summary: 'Integrated circuit (IC) image segmentation is critical for quality control in semiconductor manufacturing. We present a data-driven approach for automatic error detection in IC segmentation. Our method uses deep learning to identify segmentation errors by analyzing patterns in segmented images. We introduce a novel dataset of IC images with annotated segmentation errors and demonstrate that our approach can detect errors with high accuracy while maintaining low false positive rates.'
+  url: https://arxiv.org/pdf/2211.03927
+
+- title: "ENHANCED LOW-RESOLUTION LIDAR-CAMERA CALIBRATION VIA DEPTH INTERPOLATION AND SUPERVISED CONTRASTIVE LEARNING"
+  year: 2023
+  venue: ICASSP
+  pdf_file: papers/2211.03927v1.pdf
+  figure: images/publications/manual/2211.03927v1.png
+  summary: 'Lidar-camera calibration is essential for sensor fusion in autonomous systems, but low-resolution lidar presents significant challenges. We propose an enhanced calibration method that uses depth interpolation and supervised contrastive learning to improve accuracy. Our approach learns to align lidar point clouds with camera images through a novel contrastive objective that handles the resolution mismatch effectively. Extensive experiments show improved calibration accuracy compared to existing methods.'
+  url: https://arxiv.org/pdf/2211.03932
+
+- title: "A Simple and Efficient Method for Dubbed Audio Sync Detection using Compressive Sensing"
+  year: 2023
+  venue: WACVW
+  pdf_file: papers/Vajpayee_A_Simple_and_Efficient_Method_for_Dubbed_Audio_Sync_Detection_WACVW_2023_paper.pdf
+  figure: images/publications/manual/Vajpayee_A_Simple_and_Efficient_Method_for_Dubbed_Audio_Sync_Detection_WACVW_2023_paper.png
+  summary: 'Dubbed video synchronization is critical for content localization but challenging due to the lack of reliable automated tools. We present a simple yet efficient method for detecting audio sync in dubbed videos by analyzing audio-visual correspondence patterns. Our approach uses compressive sensing to efficiently extract relevant features while maintaining high accuracy. We demonstrate that our method outperforms existing approaches on a range of real-world dubbed content.'
+  url: https://openaccess.thecvf.com/content/WACV2023W/WVAQ/papers/Vajpayee_A_Simple_and_Efficient_Method_for_Dubbed_Audio_Sync_Detection_WACVW_2023_paper.pdf
+
+- title: "CRA: A Generic Compression Ratio Adapter for End-to-End Data-Driven Image Compressive Sensing Reconstruction Frameworks"
+  year: 2020
+  venue: ICASSP
+  pdf_file: papers/10158718.pdf
+  figure: images/publications/manual/10158718.png
+  summary: 'Compressive sensing reconstruction frameworks typically operate at fixed compression ratios, limiting flexibility across different applications. We propose CRA, a generic compression ratio adapter that enables end-to-end data-driven reconstruction frameworks to adaptively handle varying compression ratios. Our approach introduces a novel architecture that can process inputs at any compression ratio within a trained range without requiring separate models for each ratio. Experimental results demonstrate superior reconstruction quality compared to baseline methods across diverse compression scenarios.'
+  url: https://par.nsf.gov/servlets/purl/10158718
+
+- title: "LAPRAN: A Scalable Laplacian Pyramid Reconstructive Adversarial Network for Flexible Compressive Sensing Reconstruction"
+  year: 2018
+  venue: ECCV
+  pdf_file: papers/Kai_Xu_LAPCSRA_Deep_Laplacian_ECCV_2018_paper.pdf
+  figure: images/publications/manual/Kai_Xu_LAPCSRA_Deep_Laplacian_ECCV_2018_paper.png
+  summary: 'Compressive sensing reconstruction requires balancing reconstruction quality with computational efficiency. We introduce LAPRAN, a Laplacian Pyramid Reconstructive Adversarial Network that addresses this challenge through a scalable pyramid architecture. Our approach uses adversarial training to generate realistic details while maintaining structural consistency across pyramid levels. We demonstrate that LAPRAN achieves state-of-the-art results on multiple compressive sensing benchmarks while being more computationally efficient than previous methods.'
+  url: https://openaccess.thecvf.com/content_ECCV_2018/papers/Kai_Xu_LAPCSRA_Deep_Laplacian_ECCV_2018_paper.pdf
